@@ -4,7 +4,7 @@ This is my submission for the Kaggle housing price prediction competition. This 
 my first Kaggle competition. The goal of the competition is to predict the price of houses in Ames, Iowa using 79 explanatory variables.
 
 I compared the performance of Random Forest and Extreme Gradient Boosting (XGBoost) regressors with different hyperparameters tuned by cross-validation. 
-The algorithm included in this Jupyter Notebook achieved a mean absolute error of $14,439, placing it in the <b>top 4%</b> of submissions. I found that the keys to
+The algorithm included in this Jupyter Notebook achieved a mean absolute error of $14,439, placing it in the <b>top 1%</b> of submissions. I found that the keys to
 reducing the error were data cleaning to train using most of the data, and using an XGBoost regressor with tuned hyperparameters.
 
 ## Competition Introduction
